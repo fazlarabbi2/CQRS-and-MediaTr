@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Angular build output
+/dist
+/tmp
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# misc
+/.angular/cache
+/.angular/cli
+/.angular/compiler
+/.angular/language-service
+/.angular/localize
+/.angular/service-worker
+/.angular/tsc
+/.angular/universal
+/.angular/web-worker
+/.angular/webpack
+/.angular/zone.js
+/.angular/zone.js/testing
+/.angular/zone.js/dist
+/.angular/zone.js/lib
+/.angular/zone.js/node_modules
+/.angular/zone.js/package.json
+/.angular/zone.js/rollup.config.js
+/.angular/zone.js/rollup.config.umd.js
