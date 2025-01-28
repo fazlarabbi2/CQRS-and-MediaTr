@@ -1,4 +1,4 @@
-# exam_app_net_angular
+# CQRS and MediaTr Application using .NET and Angular
 This test exam application was created by .NET Core Web API and Angular. 
 
 Migration command:
