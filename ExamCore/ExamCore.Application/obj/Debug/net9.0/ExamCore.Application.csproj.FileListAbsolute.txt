@@ -44,27 +44,3 @@ D:\Exam Application\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Appl
 D:\Exam Application\ExamCore\ExamCore.Application\obj\Debug\net9.0\refint\ExamCore.Application.dll
 D:\Exam Application\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.pdb
 D:\Exam Application\ExamCore\ExamCore.Application\obj\Debug\net9.0\ref\ExamCore.Application.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Application.deps.json
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Application.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Application.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Database.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Manager.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Model.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Repository.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Shared.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Manager.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Database.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Model.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Repository.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\bin\Debug\net9.0\ExamCore.Shared.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.csproj.AssemblyReference.cache
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.GeneratedMSBuildEditorConfig.editorconfig
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.AssemblyInfoInputs.cache
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.AssemblyInfo.cs
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.csproj.CoreCompileInputs.cache
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.sourcelink.json
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.B38974D0.Up2Date
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\refint\ExamCore.Application.dll
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ExamCore.Application.pdb
-E:\Visual Studio\ASP.Net Course\exam_app_net_angular\ExamCore\ExamCore.Application\obj\Debug\net9.0\ref\ExamCore.Application.dll

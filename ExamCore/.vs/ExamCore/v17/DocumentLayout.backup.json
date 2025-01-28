@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Visual Studio\\ASP.Net Course\\exam_app_net_angular\\ExamCore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{179A8AAE-1A84-445C-A1A8-5FB88E1F8D64}|ExamCore.Api\\ExamCore.Api.csproj|e:\\visual studio\\asp.net course\\exam_app_net_angular\\examcore\\examcore.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{179A8AAE-1A84-445C-A1A8-5FB88E1F8D64}|ExamCore.Api\\ExamCore.Api.csproj|solutionrelative:examcore.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,19 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\Visual Studio\\ASP.Net Course\\exam_app_net_angular\\ExamCore\\ExamCore.Api\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "ExamCore.Api\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\Visual Studio\\ASP.Net Course\\exam_app_net_angular\\ExamCore\\ExamCore.Api\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "ExamCore.Api\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T05:36:46.416Z",
-              "EditorCaption": ""
             }
           ]
         }
